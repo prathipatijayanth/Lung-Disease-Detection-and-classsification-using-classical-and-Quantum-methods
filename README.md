@@ -1,14 +1,14 @@
 ### Lung-Disease-Detection-and-classsification-using-classical-and-Quantum-methods
 This repository contains the implementation and documentation for a lung disease detection project, focusing on lung image segmentation and classification using classical and quantum k-nearest neighbors (KNN) and convolutional neural networks (CNN).
 
-# 1.Table of Contents
-# 2.Introduction
-# 3.Dataset
-# 4.Project Structure
-# 5.Segmentation
-# 6.Classification
-# 7.Results
-# 8.Conclusion
+ 1.Table of Contents
+ 2.Introduction
+ 3.Dataset
+ 4.Project Structure
+ 5.Segmentation
+6.Classification
+ 7.Results
+ 8.Conclusion
 
 ## Introduction
 Lung disease detection is a critical area in medical image analysis. This project aims to develop and compare different approaches for accurately identifying lung diseases in medical images. Two main tasks are performed: lung image segmentation to isolate lung regions, and lung disease classification.
