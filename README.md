@@ -10,7 +10,7 @@ Classification
 Results
 Conclusion
 
-###Introduction
+### Introduction
 Lung disease detection is a critical area in medical image analysis. This project aims to develop and compare different approaches for accurately identifying lung diseases in medical images. Two main tasks are performed: lung image segmentation to isolate lung regions, and lung disease classification.
 
 In this project, we explore both classical and quantum computing techniques for classification, comparing classical k-means (Kmeans), quantum Kmeans, and convolutional neural networks (CNN) algorithms.
