@@ -27,7 +27,7 @@ The classification task includes three approaches: classical KNN, quantum KNN, a
 
 Classical KNN: This approach uses the k-nearest neighbors algorithm to classify lung images based on their features. To run the classical KNN classification, follow the instructions in the scripts/classical_knn.py script.
 Quantum KNN: The quantum approach utilizes the power of quantum computing for classification. To run the quantum KNN classification, refer to the (https://github.com/prathipatijayanth/Lung-Disease-Detection-and-classsification-using-classical-and-Quantum-methods/blob/main/QC_QKmeans_lungs_segmentation.ipynb) script.
-CNN: Convolutional neural networks are employed for classification. To run the CNN classification, follow the instructions in the scripts/cnn.py script.
+CNN: Convolutional neural networks are employed for classification. To run the CNN classification, follow the instructions in the (https://github.com/prathipatijayanth/Lung-Disease-Detection-and-classsification-using-classical-and-Quantum-methods/blob/main/QC_classical_KMeans_lungs_segmentation.ipynb) script.
 
 ## Results
 The results of each approach, including segmentation and classification, will be logged and stored in the results() Visualizations and evaluation metrics will also be provided in the notebooks and scripts.
