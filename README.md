@@ -13,7 +13,7 @@ The dataset used in this project consists of lung images obtained from [https://
 
 ## Segmentation
 The segmentation task involves isolating lung regions from the input images using techniques such as K-means clustering algorithms.
-Quantum KNN: The quantum approach utilizes the power of quantum computing for segmentation. To run the quantum KNN segmentation, refer to the (https://github.com/prathipatijayanth/Lung-Disease-Detection-and-classsification-using-classical-and-Quantum-methods/blob/main/QC_QKmeans_lungs_segmentation.ipynb) script.\\
+Quantum KNN: The quantum approach utilizes the power of quantum computing for segmentation. To run the quantum KNN segmentation, refer to the (https://github.com/prathipatijayanth/Lung-Disease-Detection-and-classsification-using-classical-and-Quantum-methods/blob/main/QC_QKmeans_lungs_segmentation.ipynb) script.\
 Traditional KNN for segmentation: (https://github.com/prathipatijayanth/Lung-Disease-Detection-and-classsification-using-classical-and-Quantum-methods/blob/main/QC_classical_KMeans_lungs_segmentation.ipynb) script.
 
 
